@@ -87,11 +87,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1. Home Page (index.html)
 
     Purpose: Serves as the landing page of the application.
+   
     Key Features:
         Provides links to the login and sign-up pages.
         Shows the application name/logo.
 
-2. Login Page (login.html)
+3. Login Page (login.html)
 
     Purpose: Allows users to log in with their credentials.
    
