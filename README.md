@@ -84,7 +84,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 5. React: For routing and single page application
 
 ## Pages & Functionality
-1. Home Page (index.html)
+1. Home Page
 
     Purpose: Serves as the landing page of the application.
    
@@ -92,7 +92,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
         Provides links to the login and sign-up pages.
         Shows the application name/logo.
 
-3. Login Page (login.html)
+2. Login Page
 
     Purpose: Allows users to log in with their credentials.
    
@@ -101,7 +101,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
         On successful login, the user is redirected to the posts page (/posts).
         Basic form validation for required fields.
 
-4. Sign Up Page (signup.html)
+3. Sign Up Page
 
     Purpose: Allows new users to sign up for the application.
    
@@ -110,7 +110,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
         Once signed up, users are redirected to the login page (/login).
         Form validation checks if all fields are filled and if the password matches.
 
-6. Posts Page (posts.html)
+4. Posts Page
 
     Purpose: Displays a list of posts fetched from the JSONPlaceholder API.
    
@@ -120,7 +120,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
         Users must be logged in to access this page. The page is protected, and unauthorized users are redirected to the login page.
         Includes a logout button to allow users to log out and return to the login page.
 
-8. Post Details Page (post-details.html)
+5. Post Details Page
 
     Purpose: Displays the detailed view of a single post.
    
